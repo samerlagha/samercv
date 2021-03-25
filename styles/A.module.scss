@@ -3,7 +3,7 @@
     text-decoration:none;
     color:rgb(93, 93, 116);
     font-size:25px;
-    margin:50px;
+    margin:30px;
     
 }
 .navbar{
@@ -14,3 +14,31 @@
     width: 100%;
     
 } 
+
+
+@media screen and (max-width: 655px){
+	
+	.link{
+		margin: 0;	
+        padding-bottom: 0;
+	}
+
+	.navbar {
+
+	   display: flex;
+	   flex-direction:column-reverse;
+      
+		height:auto;
+		width: auto;
+		align-items: center;
+        margin: 5px;	
+        padding-bottom: 0;
+	
+	}
+}
+
+@media screen and (max-width: 456px){
+	.name{
+		text-align: center;
+	}
+}

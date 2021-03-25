@@ -36,7 +36,7 @@ Responsibilities:<br/><br/>
 Currently i work in this project(https://bodyvic.com/) <br/><br/>
 Technologies used :<br/><br/>
 React,Next.js,fort awesome,material-ui,sass,HTML5, CSS5, Sass, JavaScript(ES6 +), BEM, figma, styles using scss modules,axios<br/><br/>
-<hr>---------------------------------</hr>
+
 ● 10+ year team work experience in other specialties commercial manager &<br/><br/>
  administration webseite railway resistors ltd company<br/><br/>
 
