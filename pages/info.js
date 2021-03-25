@@ -25,18 +25,18 @@ Front-end developer                                                             
 Softemy<br/><br/>
 
 React JS Developer<br/><br/>
-●Internship at Softemy from October to present,Currently i work in this project(https://bodyvic.com/)<br/><br/>
- we have used the following technology :React,React Hooks,React hook form,React Phone Number input,<br/><br/>
- react calendar,moment,React redux,Redux,Next.js,fort awesome,material-ui,sass,axios.<br/><br/>
-in this project i did the following tasks: <br/><br/>
-Refactor program day admin page i’m using React Hook(useSate&useEffect)<br/><br/>
-in place html tag using material-ua for styles using scss modules,to get data <br/><br/>
-from server using function getServiceSideProps ,import the necessary components that i need.<br/><br/>
 
-Get measurements from API using React Hook  useState ,axios post to submit <br/><br/>
-the data that user has entered for styles using scss modules.<br/><br/>
+Responsibilities:<br/><br/>
+●Writing & debugging & improving code<br/><br/>
+●working with web developing  team projects<br/><br/>
+● support of an existing project & create a new functional using(React & Next).js<br/><br/>
+● Work with trello & github & Slack Elma Microsoft Teams<br/><br/>
+●created some projects in React Hooks & Redux , that help me to get good practice <br/><br/>
 
-
+Currently i work in this project(https://bodyvic.com/) <br/><br/>
+Technologies used :<br/><br/>
+React,Next.js,fort awesome,material-ui,sass,HTML5, CSS5, Sass, JavaScript(ES6 +), BEM, figma, styles using scss modules,axios<br/><br/>
+<hr>---------------------------------</hr>
 ● 10+ year team work experience in other specialties commercial manager &<br/><br/>
  administration webseite railway resistors ltd company<br/><br/>
 
