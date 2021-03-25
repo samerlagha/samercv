@@ -33,7 +33,8 @@ I like this field and I know with the help of those libraries I can't create goo
 to be a very good specialty Front-End developer with React JS.<br/>
 Tech skills: React, Redux,Next, HTML5/CSS5, SCSS,Material-ui, responsive and multi device <br/>
  layouts, BEM, Javascript (ES6+), Webpack, Babel, ESLint, REST API, Figma, Github, Trello,Elma<br/><br/>
-I can be reached anytime via my cell phone,+380730674311 or by email at samerukr@gmail.com.<br/>
+I can be reached anytime via my cell phone: <br/>
+ +380730674311 or by email at samerukr@gmail.com.<br/>
 you can visit my Repository in GitHub and see all my Rep:<br/>
 https://github.com/samerlagha?tab=repositories<br/>
 Thank you for your time and consideration. I look forward to speaking with you about this opportunity. <br/>

@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+	
 }
 
 
@@ -12,7 +13,7 @@ body{
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-    background:rgb(229, 229, 238);
+    background:black;
 }
 
 .images{
@@ -47,7 +48,7 @@ a{
 	width: 100%;
 	height: 100%;
 	display: flex;
-	background: #f1f1f3;
+	background: #a8a8e2;
 	justify-content: space-around;
 	flex-wrap: wrap;
 }

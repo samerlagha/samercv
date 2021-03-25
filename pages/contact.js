@@ -32,7 +32,7 @@ const Contact=()=>{
       <Link href="https://github.com/samerlagha"target="_blank" >
         <GitHubIcon/>
       </Link>
-      <Link href="https://www.linkedin.com/in/samer-lagha-1a79ba199/" target="_blank"   color="inherit">
+      <Link href="https://www.linkedin.com/in/samer-lagha-1a79ba199/" target="_blank"    color="inherit">
        <LinkedInIcon/>
       </Link>
       <Link href="https://www.facebook.com/samer.lagha.7" target="_blank"   variant="body2">

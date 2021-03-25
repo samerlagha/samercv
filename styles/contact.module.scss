@@ -2,33 +2,23 @@
 
  .qualifications{
 	 display:inline-block;
+	
 	 margin: auto;
-	width: 800px;
-	padding: 10px;
+	 width: 100%;
+	 padding: 20px;
 
 
 }
 
-.qualities ul li{
-	list-style: none;
-}
 
 .section{
-	width: 100%;
-	height: 100%;
-	display: flex;
-	background: #9d9daf;
-	justify-content: space-around;
-	flex-wrap: wrap;
+	// width: 100%;
+	// height: 100%;
+	// display: flexbox;
+	background: #c8c8cc;
+	// justify-content:space-between;
+	// flex-wrap: wrap;
+	padding-bottom: 10%;
+	
 }
 
-.header{
-	width: 100%;
-	height: 300px;
-	display: flex;
-	background: #29293d;
-	justify-content: space-around;
-	align-items: center;
-	color: #fff;
-	flex-wrap: wrap;
-}
