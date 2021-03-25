@@ -1,0 +1,34 @@
+
+
+ .qualifications{
+	 display:inline-block;
+	 margin: auto;
+	width: 800px;
+	padding: 10px;
+
+
+}
+
+.qualities ul li{
+	list-style: none;
+}
+
+.section{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	background: #9d9daf;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.header{
+	width: 100%;
+	height: 300px;
+	display: flex;
+	background: #29293d;
+	justify-content: space-around;
+	align-items: center;
+	color: #fff;
+	flex-wrap: wrap;
+}
